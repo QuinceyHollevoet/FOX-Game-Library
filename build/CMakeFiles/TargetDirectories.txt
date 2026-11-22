@@ -1,0 +1,11 @@
+C:/FOXDev/FoxGameLibrary/build/CMakeFiles/FoxGameLibrary.dir
+C:/FOXDev/FoxGameLibrary/build/CMakeFiles/Uninstaller.dir
+C:/FOXDev/FoxGameLibrary/build/CMakeFiles/Updater.dir
+C:/FOXDev/FoxGameLibrary/build/CMakeFiles/edit_cache.dir
+C:/FOXDev/FoxGameLibrary/build/CMakeFiles/rebuild_cache.dir
+C:/FOXDev/FoxGameLibrary/build/CMakeFiles/FoxGameLibrary_autogen_timestamp_deps.dir
+C:/FOXDev/FoxGameLibrary/build/CMakeFiles/FoxGameLibrary_autogen.dir
+C:/FOXDev/FoxGameLibrary/build/CMakeFiles/Uninstaller_autogen_timestamp_deps.dir
+C:/FOXDev/FoxGameLibrary/build/CMakeFiles/Uninstaller_autogen.dir
+C:/FOXDev/FoxGameLibrary/build/CMakeFiles/Updater_autogen_timestamp_deps.dir
+C:/FOXDev/FoxGameLibrary/build/CMakeFiles/Updater_autogen.dir

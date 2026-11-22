@@ -1,0 +1,39 @@
+# ninja log v6
+30	251	8170642066595663	C:/FOXDev/FoxGameLibrary/build/FoxGameLibrary_autogen/mocs_compilation.cpp	d98003e649d1e448
+899	4194	8170640605380109	CMakeFiles/FoxGameLibrary.dir/main.cpp.obj	1f06495d335fad14
+30	251	8170642066595663	FoxGameLibrary_autogen/timestamp	d98003e649d1e448
+850	1044	8154149209967568	C:/FOXDev/FoxGameLibrary/build/FoxGameLibrary_autogen/EWIEGA46WW/qrc_assets.cpp	5ff3ef5db229ef82
+30	251	8170642066595663	FoxGameLibrary_autogen/mocs_compilation.cpp	d98003e649d1e448
+850	1044	8154149209967568	FoxGameLibrary_autogen/EWIEGA46WW/qrc_assets.cpp	5ff3ef5db229ef82
+30	251	8170642066595663	C:/FOXDev/FoxGameLibrary/build/FoxGameLibrary_autogen/timestamp	d98003e649d1e448
+5471	5979	8170642121004369	FOX Game Library.exe	c1cee5330f23794b
+914	2958	8170640605525430	CMakeFiles/FoxGameLibrary.dir/FoxGameLibrary_autogen/EWIEGA46WW/qrc_assets.cpp.obj	11cfb90631464605
+892	4631	8170640605310105	CMakeFiles/FoxGameLibrary.dir/FoxGameLibrary_autogen/mocs_compilation.cpp.obj	d84e6ac0b86d2030
+252	5470	8170642068815297	CMakeFiles/FoxGameLibrary.dir/mainWindow.cpp.obj	45b4516ef26db805
+4460	5162	8170622689191801	FoxGameLibrary.exe	d918375bffe13548
+16	869	8170652824304359	build.ninja	32015522212b92bd
+45	263	8170640598336950	Uninstaller_autogen/timestamp	4802cfee5a231ae6
+45	263	8170640598336950	Uninstaller_autogen/mocs_compilation.cpp	4802cfee5a231ae6
+45	263	8170640598336950	C:/FOXDev/FoxGameLibrary/build/Uninstaller_autogen/timestamp	4802cfee5a231ae6
+45	263	8170640598336950	C:/FOXDev/FoxGameLibrary/build/Uninstaller_autogen/mocs_compilation.cpp	4802cfee5a231ae6
+265	346	8170640599029793	CMakeFiles/Uninstaller.dir/Uninstaller_autogen/mocs_compilation.cpp.obj	12263dd108770519
+272	3783	8170640599106408	CMakeFiles/Uninstaller.dir/uninstaller_main.cpp.obj	87f5145f2bde5e33
+3783	4036	8170640634216820	Uninstaller.exe	84290e66942ba15
+21	1085	8170652824304359	build.ninja	32015522212b92bd
+44	203	8170652825961717	Uninstaller_autogen/timestamp	4802cfee5a231ae6
+44	203	8170652825961717	Uninstaller_autogen/mocs_compilation.cpp	4802cfee5a231ae6
+44	203	8170652825961717	C:/FOXDev/FoxGameLibrary/build/Uninstaller_autogen/timestamp	4802cfee5a231ae6
+44	203	8170652825961717	C:/FOXDev/FoxGameLibrary/build/Uninstaller_autogen/mocs_compilation.cpp	4802cfee5a231ae6
+56	271	8170652827554522	Updater_autogen/timestamp	60175ddf68fb0110
+56	271	8170652827554522	Updater_autogen/mocs_compilation.cpp	60175ddf68fb0110
+56	271	8170652827554522	C:/FOXDev/FoxGameLibrary/build/Updater_autogen/timestamp	60175ddf68fb0110
+56	271	8170652827554522	C:/FOXDev/FoxGameLibrary/build/Updater_autogen/mocs_compilation.cpp	60175ddf68fb0110
+33	299	8170652825846566	FoxGameLibrary_autogen/timestamp	d98003e649d1e448
+33	299	8170652825846566	FoxGameLibrary_autogen/mocs_compilation.cpp	d98003e649d1e448
+33	299	8170652825846566	C:/FOXDev/FoxGameLibrary/build/FoxGameLibrary_autogen/timestamp	d98003e649d1e448
+33	299	8170652825846566	C:/FOXDev/FoxGameLibrary/build/FoxGameLibrary_autogen/mocs_compilation.cpp	d98003e649d1e448
+271	340	8170652828230993	CMakeFiles/Updater.dir/Updater_autogen/mocs_compilation.cpp.obj	eec9d014927d26ae
+279	3940	8170652828311528	CMakeFiles/Updater.dir/updater_main.cpp.obj	61a876c58d6da397
+3941	4197	8170652864923601	Updater.exe	7cb3e9d423174995
+299	5897	8170652828506869	CMakeFiles/FoxGameLibrary.dir/mainWindow.cpp.obj	45b4516ef26db805
+5897	6404	8170652884488584	FOX Game Library.exe	c1cee5330f23794b
