@@ -1,0 +1,8 @@
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>assets/home.svg</file>
+        <file>assets/sony.svg</file>
+        <file>assets/nintendo-switch.svg</file>
+        <file>assets/xbox.svg</file>
+    </qresource>
+</RCC>
