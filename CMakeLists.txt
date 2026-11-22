@@ -51,6 +51,8 @@ qt_add_executable(Updater
     "updater_main.cpp"
 )
 
+target_compile_definitions(Updater PRIVATE APP_VERSION="${PROJECT_VERSION}")
+
 set_target_properties(Updater PROPERTIES
     WIN32_EXECUTABLE TRUE
     MACOSX_BUNDLE FALSE
