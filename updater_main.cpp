@@ -17,7 +17,7 @@
 #include <QEventLoop>
 
 // Replace YOUR_USERNAME and YOUR_REPO with your actual GitHub details
-const QString GITHUB_API_URL = "https://github.com";
+const QString GITHUB_API_URL = "https://github.com/QuinceyHollevoet/FOX-Game-Library";
 
 #ifndef APP_VERSION
 const QString APP_VERSION = "1.0.0";
